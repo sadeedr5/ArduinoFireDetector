@@ -1,0 +1,14 @@
+{
+    // See http://go.microsoft.com/fwlink/?LinkId=827846
+    // for the documentation about the extensions.json format
+    "recommendations": [
+        "charliermarsh.ruff",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "platformio.platformio-ide"
+    ],
+    "unwantedRecommendations": [
+        "ms-python.isort",
+        "ms-vscode.cpptools-extension-pack"
+    ]
+}
