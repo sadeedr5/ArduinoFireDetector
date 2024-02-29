@@ -8,6 +8,8 @@ This simple yet effective project is a fire detector that uses an Arduino Uno an
 
 This project was primarily made for one of the science fests that are arranged in our college every year. It was also a learning attempt for me to try and get used to building various combinations of circuits using Arduino and tinker around with various different sensors and modules.
 
+---
+
 ### Used Technologies
 
 - C++ (Arduino, for the main code and TCP server)
