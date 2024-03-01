@@ -6,6 +6,5 @@
             "source.organizeImports.ruff": "explicit"
         },
         "editor.defaultFormatter": "charliermarsh.ruff",
-    },
-    "ruff.importStrategy": "fromEnvironment"
+    }
 }
