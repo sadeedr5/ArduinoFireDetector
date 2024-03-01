@@ -47,7 +47,7 @@ Before we can get into hosting the source, we'll have to make sure that the envi
 
 - [Python 3.12](https://www.python.org/downloads) is required to run the backend code. It is a powerful, flexible, and easy-to-learn language that is used in a wide range of applications. The required packages have been placed inside the **requirements.txt** file.
 
-- [A C++ compiler](https://gcc.gnu.org) is needed to build and upload scratches to the Arduino Uno. In our case, PlatformIO generally prefers system-specific GCC toolchain to do so.
+- [A C++ compiler](https://gcc.gnu.org) is needed to build and upload scratches to the Arduino Uno. In our case, PlatformIO generally prefers system-specific GCC toolchain to do so. <br>
 
 ### Cloning the GitHub repository
 
@@ -88,7 +88,9 @@ SKIP_EMAIL=
 ```
 
 Out of these five variables, only `MAIL_EMAIL` and `MAIL_EMAIL_PASSWORD` are required and others default to `False`. 
-Note that you cannot provide your default email credentials here since it'd turn into a security risk. Instead, we can create our virtual app using our email address. In the case of Google, use [this guide right here](https://support.google.com/accounts/answer/185833?hl=en) to create **App Passwords** inside your Google Account. Then, use the generated password as the `MAIN_EMAIL_PASSWORD` value.
+Note that you cannot provide your default email credentials here since it'd turn into a security risk. Instead, we can create our virtual app using our email address. 
+
+- In the case of Google, use [this guide right here](https://support.google.com/accounts/answer/185833?hl=en) to create **App Passwords** inside your Google Account. Then, use the generated password as the `MAIN_EMAIL_PASSWORD` value.
 
 ### Installing the dependencies
 
