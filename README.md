@@ -33,9 +33,9 @@ The circuit diagram for this project is very simple. If you'd like to preview th
 
 The source code has been divided into two parts:
 
-    1. The code for the Arduino Uno, which is responsible for preparing the ESP8266 module as both a wireless device and a TCP server, reading the sensor data and sending it over both the serial port and the TCP protocol.
+1. The code for the Arduino Uno, which is responsible for preparing the ESP8266 module as both a wireless device and a TCP server, reading the sensor data and sending it over both the serial port and the TCP protocol.
 
-    2. The code to run on a local machine, which is responsible for sounding the alarm and sending emails to all of the addresses assigned in the code.
+2. The code to run on a local machine, which is responsible for sounding the alarm and sending emails to all of the addresses assigned in the code.
 
 Before we can get into hosting the source, we'll have to make sure that the environment has been setup properly.
 
