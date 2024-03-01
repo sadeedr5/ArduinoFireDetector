@@ -12,7 +12,7 @@ This project was primarily made for one of the science fests that are arranged i
 
 ## Setup
 
-### Required tech stack
+### Required technologies
 
 - C++ (Arduino, for the main code and TCP server)
 - Python (for the mailing and TCP client)
@@ -20,8 +20,8 @@ This project was primarily made for one of the science fests that are arranged i
     - Arduino Uno
     - Flame Sensor Module
     - ESP8266 ESP-01 Module
-    - Jumper Wires
-    - Breadboard
+    - Jumper Wires (approx. 11)
+    - Breadboard (small)
 
 ### Making the circuit
 
