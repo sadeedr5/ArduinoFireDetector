@@ -27,7 +27,7 @@ This project was primarily made for one of the science fests that are arranged i
 
 The circuit diagram for this project is very simple. If you'd like to preview this diagram in real time, fear not! It has been designed using the [Cirkit Designer](https://www.cirkitstudio.com) program. See [this directory](diagram) for the project resources.
 
-<img src="diagram/circuit.png" style="width: 500px; height: auto;" alt="Circuit Diagram">
+<img src="diagram/circuit.png" style="width: 600px; height: auto;" alt="Circuit Diagram">
 
 ### Code structure
 
