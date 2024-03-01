@@ -8,7 +8,11 @@ This simple yet effective project is a fire detector that uses an Arduino Uno an
 
 This project was primarily made for one of the science fests that are arranged in our college every year. It was also a learning attempt for me to try and get used to building various combinations of circuits using Arduino and tinker around with various different sensors and modules.
 
-### Used technologies
+---
+
+## Setup
+
+### Required tech stack
 
 - C++ (Arduino, for the main code and TCP server)
 - Python (for the mailing and TCP client)
@@ -19,13 +23,9 @@ This project was primarily made for one of the science fests that are arranged i
     - Jumper Wires
     - Breadboard
 
----
-
-## Setup
-
 ### Making the circuit
 
-The circuit diagram for this project is very simple. If you'd like to preview this diagram in real time, fear not! It has been designed using the [Cirkit Designer](https://www.cirkitstudio.com) program. See [this directory](diagram) to view both the image and the raw project file.
+The circuit diagram for this project is very simple. If you'd like to preview this diagram in real time, fear not! It has been designed using the [Cirkit Designer](https://www.cirkitstudio.com) program. See [this directory](diagram) for the project resources.
 
 <img src="diagram/circuit.png" style="width: 500px; height: auto;" alt="Circuit Diagram">
 
