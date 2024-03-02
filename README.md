@@ -47,7 +47,7 @@ Before we can get into hosting the source, we'll have to make sure that the envi
 
 - [Python 3.8](https://www.python.org/downloads) is required to run the backend code. It is a powerful, flexible, and easy-to-learn language that is used in a wide range of applications. The required packages have been placed inside the **requirements.txt** file.
 
-- [A C++ compiler](https://gcc.gnu.org) is needed to build and upload scratches to the Arduino Uno. In our case, PlatformIO generally prefers system-specific GCC toolchain to do so. <br>
+- [A C++ compiler (preferably GNU GCC)](https://gcc.gnu.org) is needed to build and upload scratches to the Arduino Uno. In our case, PlatformIO generally prefers system-specific GCC toolchain to do so. <br>
 
 ### Cloning the GitHub repository
 
