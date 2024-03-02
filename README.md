@@ -45,7 +45,7 @@ Before we can get into hosting the source, we'll have to make sure that the envi
 
 - [PlatformIO](https://platformio.org) is used as the main extension for this project, which is a powerful, open source ecosystem for IoT development. Instead of using the default Arduino IDE for writing and uploading the scratches to our device, we can use it to do the same thing.
 
-- [Python 3.12](https://www.python.org/downloads) is required to run the backend code. It is a powerful, flexible, and easy-to-learn language that is used in a wide range of applications. The required packages have been placed inside the **requirements.txt** file.
+- [Python 3.8](https://www.python.org/downloads) is required to run the backend code. It is a powerful, flexible, and easy-to-learn language that is used in a wide range of applications. The required packages have been placed inside the **requirements.txt** file.
 
 - [A C++ compiler](https://gcc.gnu.org) is needed to build and upload scratches to the Arduino Uno. In our case, PlatformIO generally prefers system-specific GCC toolchain to do so. <br>
 
